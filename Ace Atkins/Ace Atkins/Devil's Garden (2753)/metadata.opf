@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2753</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4c4df8d-4c4f-4dfa-9fd5-eb9519f52a4f</dc:identifier>
+        <dc:title>Devil's Garden</dc:title>
+        <dc:creator opf:file-as="Atkins, Ace" opf:role="aut">Ace Atkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-07T04:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**From the critically acclaimed, award-nominated author comes a new noir crime classic about one of the most notorious trials in American history.**
+
+
+
+ Critics called Ace Atkins’s *Wicked City* “gripping, superb” (*Library Journal*), “stunning” (*The Tampa Tribune*), “terrific” (Associated Press), “riveting” (*Kirkus Reviews*), “wicked good” (*Fort Worth Star-Telegram*), and “Atkins’ best novel” (*The Washington Post*). But *Devil’s Garden* is something else again.
+
+
+
+ San Francisco, September 1921: Silent-screen comedy star Roscoe “Fatty” Arbuckle is throwing a wild party in his suite at the St. Francis Hotel: girls, jazz, bootleg hooch . . . and a dead actress named Virginia Rappe. The D.A. says it was Arbuckle who killed her—crushing her under his weight—and brings him up on manslaughter charges. William Randolph Hearst’s newspapers stir up the public and demand a guilty verdict. But what really happened? Why do so many people at the party seem to have stories that conflict? Why is the prosecution hiding witnesses? Why are there body parts missing from the autopsied corpse? Why is Hearst so determined to see Fatty Arbuckle convicted?
+
+
+
+ In desperation, Arbuckle’s defense team hires a Pinkerton agent to do an investigation of his own and, they hope, discover the truth. The agent’s name is Dashiell Hammett, and he’s the book’s narrator. What he discovers will change American legal history—and his own life—forever.
+
+
+
+ “The historical accuracy isn’t what elevates Atkins’ prose to greatness,” said *The Tampa Tribune*. “It’s his ability to let these characters breathe in a way that few authors could ever imagine. He doesn’t so much write them as unleash them upon the page.” You will not soon forget the extraordinary characters and events in *Devil’s Garden*.</dc:description>
+        <dc:publisher>Putnam Adult</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399155369</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-04T14:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Devil's Garden" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

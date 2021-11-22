@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60196e51-6dbd-4275-a639-604f93af5849</dc:identifier>
+        <dc:title>Blackwood Farm</dc:title>
+        <dc:creator opf:file-as="Rice, Anne" opf:role="aut">Anne Rice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-10-29T17:41:34.440000+00:00</dc:date>
+        <dc:description>SUMMARY:
+In her new novel, perennial bestseller Anne Rice fuses her two uniquely seductive strains of narrative -- her Vampire legend and her lore of the Mayfair witches -- to give us a world of classic deep-south luxury and ancestral secrets. Welcome to Blackwood Farm: soaring white columns, spacious drawing rooms, bright, sun-drenched gardens, and a dark strip of the dense Sugar Devil Swamp. This is the world of Quinn Blackwood, a brilliant young man haunted since birth by a mysterious doppelgänger, “Goblin,” a spirit from a dream world that Quinn can’t escape and that prevents him from belonging anywhere. When Quinn is made a Vampire, losing all that is rightfully his and gaining an unwanted immortality, his doppelgänger becomes even more vampiric and terrifying than Quinn himself. As the novel moves backwards and forwards in time, from Quinn’s boyhood on Blackwood Farm to present day New Orleans, from ancient Athens to 19th-century Naples, Quinn seeks out the legendary Vampire Lestat in the hope of freeing himself from the spectre that draws him inexorably back to Sugar Devil Swamp and the explosive secrets it holds. A story of youth and promise, of loss and the search for love, of secrets and destiny, Blackwood Farm is Anne Rice at her mesmerizing best. From the Hardcover edition.</dc:description>
+        <dc:publisher>A.A. Knopf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780676975420</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Vampires</dc:subject>
+        <meta content="Vampire Chronicles" name="calibre:series"/>
+        <meta content="9" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-04T04:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Blackwood Farm" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Vampires&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

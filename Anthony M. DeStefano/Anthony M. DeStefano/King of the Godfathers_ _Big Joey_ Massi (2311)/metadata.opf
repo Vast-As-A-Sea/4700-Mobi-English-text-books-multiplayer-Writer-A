@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2311</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">069dc61c-f759-4aa3-bbc4-5450d08ff091</dc:identifier>
+        <dc:title>King of the Godfathers: "Big Joey" Massino and the Fall of the Bonanno Crime Family</dc:title>
+        <dc:creator opf:file-as="Destefano, Anthony" opf:role="aut">Anthony M. DeStefano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-05-27T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+For more than twenty years, Joseph "Big Joey" Massino ran what was called the largest criminal network in the U.S., employing over two hundred and fifty made men and untold numbers of associates. The Bonanno family was responsible for over thirty murders, even killing a dozen of its own members to enforce discipline and settle scores. He would be brought down by Salvatore "Good Looking Sal" Vitale, the underboss who was not only Massino's closest and most trusted friend, but also his brother-in-law. In the end, facing the death penalty and the prospect of leaving his family penniless, Massino started talking to the FBI - the first Mafia Godfather to break the sacred code of omerta, and the end of a centuries-old tradition.</dc:description>
+        <dc:publisher>Kensington Publishing Corp.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780806528748</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-04T03:14:37.882000+00:00" name="calibre:timestamp"/>
+        <meta content="King of the Godfathers: &quot;Big Joey&quot; Massino and the Fall of the Bonanno Crime Family" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

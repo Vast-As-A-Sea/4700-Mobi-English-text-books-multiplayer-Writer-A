@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9a71cf3-8392-4f2d-9f44-3d9adae2e152</dc:identifier>
+        <dc:title>Aggressor</dc:title>
+        <dc:creator opf:file-as="McNab, Andy" opf:role="aut">Andy McNab</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-27T22:21:09.110000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“Addictive… Packed with wild action and revealing tradecraft.”&lt;br /&gt;_–Daily Telegraph  &lt;/p&gt;&lt;p&gt;_“McNab is a terrific novelist. When it comes to thrills, he’s Forsyth class.”&lt;br /&gt;&lt;em&gt;–Mail on Sunday&lt;/em&gt;  &lt;/p&gt;&lt;p&gt;&lt;em&gt;From the Paperback edition.&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;The stunning new thriller from the master of the genre.  &lt;/p&gt;&lt;p&gt;Nick Stone seems to be living his dream, not a care in the world as he steers his camper van round the surfing and parachuting centres of Australia, a board on the roof, freefall rig behind him, and a beautiful young backpacker at his side. But when he witnesses on TV the massacre of children in a terrorist siege on the other side of the world, long-suppressed memories are triggered and Nick finds himself catapulted once more into working for the American secret services — only this time, of his own free will.  &lt;/p&gt;&lt;p&gt;As events unfold in the bleak, medieval villages of Azerbajhan, and the teeming streets of modern Istanbul, it isn’t long before Nick discovers the true objective of the mission on which he has embarked. His talents are being misused by those who stalk the corridors of power, and he is determined to make a stand.  &lt;/p&gt;&lt;p&gt;Hurtled at breakneck pace through a deadly landscape of greed, violence and ever-shifting allegiances, the reader will be left in no doubt that McNab is the master of the genre — and &lt;strong&gt;Aggressor &lt;/strong&gt;is McNab at his searing, blockbusting best.  &lt;/p&gt;&lt;p&gt;&lt;em&gt;From the Trade Paperback edition.&lt;/em&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Bantam</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780593050316</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="Nick Stone" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-29T22:17:23.786000+00:00" name="calibre:timestamp"/>
+        <meta content="Aggressor" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

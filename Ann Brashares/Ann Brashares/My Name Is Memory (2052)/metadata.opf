@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2052</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3373fa16-14ba-407d-aade-ef27c890f7f3</dc:identifier>
+        <dc:title>My Name Is Memory</dc:title>
+        <dc:creator opf:file-as="Brashares, Ann" opf:role="aut">Ann Brashares</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**From the *New York Times*-bestselling author of *The Sisterhood of the Traveling Pants* and *The Last Summer (of You and Me)* comes an imaginative, inspired, magical book-a love story that lasts more than a lifetime. ** 
+
+
+
+ Daniel has spent centuries falling in love with the same girl. Life after life, crossing continents and dynasties, he and Sophia (despite her changing name and form) have been drawn together-and he remembers it all. Daniel has "the memory", the ability to recall past lives and recognize souls of those he's previously known. It is a gift and a curse. For all the times that he and Sophia have been drawn together throughout history, they have also been torn painfully, fatally, apart. A love always too short. 
+
+
+
+ Interwoven through Sophia and Daniel's unfolding present day relationship are glimpses of their expansive history together. From 552 Asia Minor to 1918 England and 1972 Virginia, the two souls share a long and sometimes torturous path of seeking each other time and time again. But just when young Sophia (now "Lucy" in the present) finally begins to awaken to the secret of their shared past, to understand the true reason for the strength of their attraction, the mysterious force that has always torn them apart reappears. Ultimately, they must come to understand what stands in the way of their love if they are ever to spend a lifetime together. 
+
+
+
+ A magical, suspenseful, heartbreaking story of true love, *My Name is Memory* proves the power and endurance of a union that was meant to be.</dc:description>
+        <dc:publisher>RIVERHEAD</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594487583</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-16T22:02:14.868000+00:00" name="calibre:timestamp"/>
+        <meta content="My Name Is Memory" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;, &quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

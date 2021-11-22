@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09a7b7ff-1b06-4f65-850b-91c1151a129d</dc:identifier>
+        <dc:title>Black Friday</dc:title>
+        <dc:creator opf:file-as="Kava, Alex" opf:role="aut">Alex Kava</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-02T04:00:00+00:00</dc:date>
+        <dc:description>On the busiest shopping day of the year, some idealistic college students believe they’re about to carry out an elaborate media stunt at the largest mall in America. They think the jamming devices in their backpacks will disrupt stores’ computer systems, causing delays and chaos. What they don’t realize is that instead of jamming devices, their backpacks are stuffed with explosives, ready to be detonated by remote control and turning them into suicide bombers.Caught up in a political nightmare, battling a new interim director and still mourning the death of her boss A. D. Cunningham, FBI profiler Maggie O’Dell must put her own troubles aside and fly to Minnesota to help figure out what’s behind this terrorist attack — a massacre that is all the more frightening because no group has claimed responsibility.The search becomes personal when a tip reveals that one of the college students involved is Patrick, Maggie’s brother. Afraid and on the run, Patrick must decide if he can finally trust Maggie enough to help her unravel this horrifying nightmare.Sifting through the debris for answers, Maggie is joined by Nick Morrelli, who has recently taken a job with a national security company that oversees security for the mall. Although Maggie and Nick have investigated several cases together in the past, they’ve never investigated a relationship with each other. Nick would like to change that.When an informant confides in Maggie that there are other attacks on the secret agenda, she knows that she’s running out of time. In less than twenty-four hours she’ll need to figure out exactly when and where the second attack will take place, who to look for and how to keep her brother from becoming one of the casualties.</dc:description>
+        <dc:publisher>MIRA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781596009134</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="Maggie O'Dell" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-02T16:54:34.131000+00:00" name="calibre:timestamp"/>
+        <meta content="Black Friday" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

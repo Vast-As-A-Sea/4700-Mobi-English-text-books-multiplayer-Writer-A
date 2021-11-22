@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7565</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03a46fc4-4d12-4995-a349-63facf5e7230</dc:identifier>
+        <dc:title>Act of Will</dc:title>
+        <dc:creator opf:file-as="Hartley, A. J." opf:role="aut">A. J. Hartley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-01T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+ 
+ &lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+ &lt;div&gt;
+ Starred Review. As 18-year-old orphaned actor Will Hawthorne explains early on in this clever page-turner, I don't want you thinking you're going to get a tale about some blue-eyed tyke with a heart of gold in a world where good triumphs over evil. You're not, I'm not, and in my experience it never does. Charged as a rebel after escaping the authorities in a world not unlike Elizabethan England, obnoxious, charming Will joins a small mercenary group and proves himself the least honorable of them all. When the group comes under attack from crimson-armored raiders, Will reluctantly fails to betray the companions he is even more reluctantly growing to like. In small, swift scenes, Hartley (&lt;i&gt;On the Fifth Day&lt;/i&gt;) deftly proves that people you shouldn't trust at your back can be the best ones to have at your side. &lt;i&gt;(Mar.)&lt;/i&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.
+ 
+ &lt;/div&gt;
+ &lt;h3&gt;From &lt;/h3&gt;
+ &lt;div&gt;
+ This fantasy by a Shakespearean scholar tells the story of hapless young actor William Hawthorne in a fictional world that, not unlike Elizabethan England, brims with intrigue. Saving his neck by joining a band of heroes led by a warrior possessed of a magical and powerful sword, Hawthorne unwittingly joins a battle against an evil empire bent on crushing everyone to its will. The subsequent story is at times formulaic, the whole piece a pastiche of clichés and plot twists from better-known movies and adventure fiction. Only someone unfamiliar with the genre may be surprised, for example, that Hartley’s foolish and cowardly protagonist learns, over the course of this ripping yarn, to be wise and brave. Hartley’s prose is so graceful, his narrative so taut, and his battle scenes so exciting and well described, however, that one quickly forgives his betimes paint-by-numbers development. All this is especially true of the compulsively readable second half, which unfolds with remarkable elegance and power. --Jack Helbig
+ 
+ &lt;/div&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Macmillan</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765360885</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Will Hawthorne" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-04T02:54:19.410000+00:00" name="calibre:timestamp"/>
+        <meta content="Act of Will" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

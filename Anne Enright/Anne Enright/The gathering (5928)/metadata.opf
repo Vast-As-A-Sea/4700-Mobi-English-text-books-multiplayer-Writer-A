@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5928</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2cfab723-ead9-430b-b4b1-1982c74481ea</dc:identifier>
+        <dc:title>The gathering</dc:title>
+        <dc:creator opf:file-as="Enright, Anne" opf:role="aut">Anne Enright</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-15T21:24:28.012000+00:00</dc:date>
+        <dc:description>SUMMARY:
+A dazzling writer of international stature, Anne Enright is one of Ireland's most singular voices. Now she delivers The Gathering, a return to an intimate canvas and moving, evocative portrait of a large Irish family haunted by the past. The nine surviving children of the Hegarty clan are gathering in Dublin for the wake of their wayward brother, Liam, drowned in the sea. His sister, Veronica, collects the body and keeps the dead man company, guarding the secret she shares with him--something that happened in their grandmother's house in the winter of 1968. As Enright traces the line of betrayal and redemption through three generations, she shows how memories warp and secrets fester. The Gathering is a family epic, clarified through Anne Enright's unblinking eye. This is a novel about love and disappointment, about how fate is written in the body, not in the stars. The Gathering sends fresh blood through the Irish literary tradition, combining the lyricism of the old with the shock of the new. As in all of Anne Enright's work, this is a book of draing, wit, and insight, her distinctive intelligence twisting the world a fraction and giving it back to us in a new and unforgettable light.</dc:description>
+        <dc:publisher>Black Cat</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780802170392</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-14T21:19:40.233000+00:00" name="calibre:timestamp"/>
+        <meta content="gathering, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

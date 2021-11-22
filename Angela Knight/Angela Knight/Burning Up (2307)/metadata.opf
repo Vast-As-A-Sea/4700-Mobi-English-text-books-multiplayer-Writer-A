@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2307</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46ffe390-fed9-4147-a97f-ad63130c0701</dc:identifier>
+        <dc:title>Burning Up</dc:title>
+        <dc:creator opf:file-as="Knight, Angela" opf:role="aut">Angela Knight</dc:creator>
+        <dc:creator opf:file-as="Knight, Angela" opf:role="aut">Nalini Singh</dc:creator>
+        <dc:creator opf:file-as="Knight, Angela" opf:role="aut">Virginia Kantra</dc:creator>
+        <dc:creator opf:file-as="Knight, Angela" opf:role="aut">Meljean Brook</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T20:48:17.581000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**Bring these four authors together and it's sure to ignite a spark... ** 
+
+
+
+ **Angela Knight** pairs a vampire warrior and his seductive captor in a battle against demonic predators. 
+
+
+
+ **Nalini Singh** returns to the world of her Psy-Changeling series as a woman in lethal danger finds an unlikely protector-and lover. 
+
+
+
+ **Virginia Kantra** continues the haunting tales of the Children of the Sea in her story of a wounded soldier rescued by an enigmatic young woman. 
+
+
+
+ **Meljean Brook** launches a bold new steampunk series about a woman who strikes a provocative-and terrifying-bargain for freedom.</dc:description>
+        <dc:publisher>Penguin Group (USA) Incorporated</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780425235959</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Fantasy</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-04T17:27:38.468000+00:00" name="calibre:timestamp"/>
+        <meta content="Burning Up" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

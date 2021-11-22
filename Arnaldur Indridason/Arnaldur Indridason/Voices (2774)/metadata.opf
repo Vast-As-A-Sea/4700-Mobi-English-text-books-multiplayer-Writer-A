@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2774</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06d8bc3c-72bf-43a2-bbb7-018b80f81ad1</dc:identifier>
+        <dc:title>Voices</dc:title>
+        <dc:creator opf:file-as="Indridason, Arnaldur" opf:role="aut">Arnaldur Indridason</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-05-02T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Following the huge success of &lt;I&gt;Silence of the Grave&lt;/I&gt;, another spellbinding thriller from the winner of the CWA Gold Dagger.&lt;p&gt;Detective Erlendur encounters memories of his troubled past in this gripping and award-winning continuation of the Reykjavík Murder Mysteries.&lt;p&gt; At a grand Reykjavík hotel the doorman has been repeatedly stabbed in the dingy basement room he called home. It is only a few days before Christmas and he was preparing to appear as Santa Claus at a children's party. The manager tries to keep the murder under wraps. A glum detective taking up residence in his hotel and an intrusive murder investigation are not what he needs.&lt;p&gt; As Erlendur quietly surveys the cast of grotesques who populate the hotel, the web of malice, greed and corruption that lies beneath its surface reveals itself. Everyone has something to hide. But most shocking is the childhood secret of the dead man who, many years before, was the most famous child singer in the country: it turns...
+SUMMARY:
+The third novel in the award-winning Reykjavik Murder Mysteries.The Christmas rush is under way in a big Reykjavik hotel when the police are called to the scene of a murder. The hotel doorman (and long-time resident of its basement) has been stabbed to death. With the hotel fully booked, the manager is desperate to keep the murder under wraps and his reputation intact.Detectives Erlendur and Sigurdur Oli discover that the dead man had had a childhood brush with fame and that two old 45s on which he had sung have become prized collectors’ items. Estranged from his family for decades, why had the man continued to pay secret visits to his boyhood home?As Detective Elinborg investigates a separate case of child abuse, and Erlendur continues to struggle both with his troubled family relationships and the ghosts of his own youth, their parallel stories probe deeper into the riddle of this latest Reykjavik Murder Mystery.From the Trade Paperback edition.</dc:description>
+        <dc:publisher>Harvill Secker</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781846550331</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Kriminalpolis Erlendur Sveinsson" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-05-02T16:42:15.012000+00:00" name="calibre:timestamp"/>
+        <meta content="Voices" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

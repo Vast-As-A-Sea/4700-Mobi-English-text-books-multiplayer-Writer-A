@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcd8307e-ad19-42e4-9b17-481f6c92c635</dc:identifier>
+        <dc:title>Hearing secret harmonies</dc:title>
+        <dc:creator opf:file-as="Powell, Anthony" opf:role="aut">Anthony Powell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1975-08-15T11:06:39.379000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Anthony Powell's universally acclaimed epic encompasses a four-volume panorama of twentieth century London. Hailed by Time as "brilliant literary comedy as well as a brilliant sketch of the times," A Dance to the Music of Time opens just after World War I. Amid the fever of the 1920s and the first chill of the 1930s, Nick Jenkins and his friends confront sex, society, business, and art. In the second volume they move to London in a whirl of marriage and adulteries, fashions and frivolities, personal triumphs and failures. These books "provide an unsurpassed picture, at once gay and melancholy, of social and artistic life in Britain between the wars" (Arthur Schlesinger, Jr.). The third volume follows Nick into army life and evokes London during the blitz. In the climactic final volume, England has won the war and must now count the losses.
+
+
+
+In this climactic volume of *A Dance to the Music of Time*, Nick Jenkins describes a world of ambition, intrigue, and dissolution. England has won the war, but now the losses, physical and moral, must be counted. Pamela Widmerpool sets a snare for the young writer Trapnel, while her husband suffers private agony and public humiliation. Set against a background of politics, business, high society, and the counterculture in England and Europe, this magnificent work of art sounds an unforgettable requiem for an age. 
+
+
+
+Includes these novels: 
+
+*Books Do Furnish a Room *
+
+*Temporary Kings *
+
+*Hearing Secret Harmonies *
+
+
+
+"Anthony Powell is the best living English novelist by far. His admirers are addicts, let us face it, held in thrall by a magician."—*Chicago Tribune*
+
+
+
+"A book which creates a world and explores it in depth, which ponders changing relationships and values, which creates brilliantly living and diverse characters and then watches them grow and change in their milieu. . . . Powell's world is as large and as complex as Proust's."—Elizabeth Janeway, *New York Times*
+
+
+
+"One of the most important works of fiction since the Second World War. . . . The novel looked, as it began, something like a comedy of manners; then, for a while, like a tragedy of manners; now like a vastly entertaining, deeply melancholy, yet somehow courageous statement about human experience."—Naomi Bliven, *New Yorker *</dc:description>
+        <dc:publisher>Little, Brown and Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316715485</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Dance to the Music of Time" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-01-11T07:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Hearing secret harmonies" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

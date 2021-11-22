@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad68106a-1950-46f9-a510-7210249cfe3d</dc:identifier>
+        <dc:title>Kell's Legend: The Clockwork Vampire Chronicles</dc:title>
+        <dc:creator opf:file-as="Remic, Andy" opf:role="aut">Andy Remic</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+THEY CAME FROM THE NORTH AND THE CITY FELL. The land of Falanor has been invaded by an albino army, the Army of Iron. A small band of heroes led by Kell, a magnificent and brutal hero, breaks out to warn the king. Fighting their way south, betrayal follows battle, battle follows deviation, and they are attacked on all quarters by deadly warriors, monstrous Harvesters who drain blood from their victims to feed their masters. And worse is to come, for Kell is anything but a hero. "Kell's Legend is loosely based on the traditional fantasy story, brave but world weary warrior type who just wants to retire from any bloodshed and finds himself forced to use his talents of destruction. This tradition though is then bashed on the head and burried 6 feet deep with inclusion of the clockwork vampires creating a blend of fantasy horror and fantastic fight scenes. I mean really top quality fight scenes. One of Gemmell's most redeeming qualities as an author was his ability to write about fighting and war to such a degree that you almost felt like rushing through his novels to get to those bits. Kell's Legend fight scenes live up to this quality and elevate the novel way above the standard fare. Kell's Legend is a novel of power and scope, able to stand as a worthy successor to the Gemmell crown. 5***** " - Science Fiction &amp; Fantasy Books File Under: Epic Fantasy [ A City Besieged | A Dangerous Hero | Bloodsucking Hordes | Sweeping Battles ]</dc:description>
+        <dc:publisher>Osprey Pub Co</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780857660169</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-06T04:46:39.478000+00:00" name="calibre:timestamp"/>
+        <meta content="Kell's Legend: The Clockwork Vampire Chronicles" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

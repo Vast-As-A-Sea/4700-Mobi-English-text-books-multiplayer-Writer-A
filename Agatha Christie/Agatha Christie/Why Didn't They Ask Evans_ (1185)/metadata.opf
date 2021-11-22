@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1185</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06180647-9ef0-42be-858c-1a037881544e</dc:identifier>
+        <dc:title>Why Didn't They Ask Evans?</dc:title>
+        <dc:creator opf:file-as="Christie, Agatha" opf:role="aut">Agatha Christie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-31T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Agatha Christie is more than the most popular mystery writer of all time. In a career that spans over half a century, her name is synonymous with brilliant deception, ingenious puzzles, and the surprise denouement. By virtually inventing the modern mystery novel she has earned her title as the Queen of Crime. Curious? Then you're invited to read...WHY DIDN'T THEY ASK EVANS?Was it a misstep that sent the handsome stranger plummeting to his death from a cliff? Or something more sinister? Fun-loving adventurers Bobby Jones and Francis Derwit's suspicions are certainly aroused-especially since the man's dying words were so peculiar: Why didn't they ask Evans? Bobby and Francis would love to know. Unfortunately, asking it of the wrong people have sent the amateur sleuths running for their lives-on a wild and deadly pursuit to discover who Evans is, what it was he wasn't asked, and why the mysterious inquiry has put their own lives in mortal danger... AUTHORBIO: AGATHA CHRISTIE is the world's best known mystery writer. Her books have sold over a billion copies in the English language and another billion in 44 foreign languages. She is the most widely published author of all time in any language, outsold only by the Bible and Shakespeare.  Her writing career spanned more than half a century, during which she wrote 80 novels and short story collections, as well as 14 plays, one of which, The Mousetrap, is the longest-running play in history. Two of the characters she created, the brilliant little Belgian Hercule Poirot and the irrepressible and relentless Miss Marple, went on to become world-famous detectives. Both have been widely dramatized in feature films and made-for-TV movies.Agatha Christie also wrote under the pseudonym Mary Westmacott. As well, she wrote four non-fiction books including an autobiography and an entertaining account of the many expeditions she shared with her archaeologist husband, Sir Max Mallowan.  Agatha Christie died in 1976.</dc:description>
+        <dc:publisher>St. Martin's Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780312981594</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-09T18:30:00+00:00" name="calibre:timestamp"/>
+        <meta content="Why Didn't They Ask Evans?" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

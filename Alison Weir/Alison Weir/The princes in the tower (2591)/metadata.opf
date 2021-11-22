@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c32e70ac-99ee-468a-beed-5c119ae6a1c6</dc:identifier>
+        <dc:title>The princes in the tower</dc:title>
+        <dc:creator opf:file-as="Weir, Alison" opf:role="aut">Alison Weir</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-08-15T07:40:03.796000+00:00</dc:date>
+        <dc:description>SUMMARY:
+"A SURPRISINGLY FRESH AND TREMENDOUSLY THOROUGH CONTRIBUTION to the debate...Weir's book is, no doubt, not the last on this subject, but it might be the best....[She] constructs a devastating case...[and] brilliantly illuminates the nature of late-medieval political power." --The Boston Globe Despite five centuries of investigation by historians, the sinister deaths of the boy king Edward V and his younger brother Richard, Duke of York, remain two of the most fascinating murder mysteries in English history. Did Richard III really kill "the Princes in the Tower," as is commonly believed, or was the murderer someone else entirely? Carefully examining every shred of contemporary evidence as well as dozens of modern accounts, English historian Alison Weir reconstructs the entire chain of events leading to the double murder. We are witnesses to the rivalry, ambition, intrigue, and struggle for power that culminated in the imprisonment of the prince and the hushed-up murders that secured Richard's claim to the throne as Richard III. A masterpiece of historical research and a riveting story of conspiracy and deception, The Princes in the Tower at last provides a solution to this age-old puzzle. "Weir takes on this delicious mystery with a fearsome vengeance. The result is a fascinating and completely credible account." --Milwaukee Journal "Did Richard III do in his nephews or didn't he? How much of the evil-uncle legend was later Tudor propaganda and how much was true?...This is exciting reading." --The Denver Post "A fascinating historical whodunit in which truth is more sordid than fiction." --Kirkus Reviews A MAIN SELECTION OF THE BOOK-OF-THE-MONTH CLUB</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345391780</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-24T21:20:42.606668+00:00" name="calibre:timestamp"/>
+        <meta content="princes in the tower, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;, &quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

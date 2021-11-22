@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7613</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5a8e7fb-d53c-4abe-9151-c8d6fd01796b</dc:identifier>
+        <dc:title>Mary Ann in Autumn: A Tales of the City Novel</dc:title>
+        <dc:creator opf:file-as="Maupin, Armistead" opf:role="aut">Armistead Maupin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-02T02:55:27.818000+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+ 
+ &lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+ &lt;div&gt;
+ In the sure-to-please follow-up to Michael Tolliver Lives, the bestselling Tales of the City reboot, it's been 20 years since series anchor Mary Ann Singleton left her family and headed to New York. Maupin's San Francisco is comforting in its familiarity, and the gang is (mostly) all here, older, wiser, and settled in: Michael "Mouse" Tolliver is married to Ben; Shawna, Mary Ann's estranged daughter, is a popular sex blogger who is dating Otto, an enigmatic professional clown; and grand dame Anna Madrigal, once landlady to Michael and Mary Ann, is still kicking in her late 80s. Into this milieu returns Mary Ann, who ditched her husband and the young Shawna for a career in television. Now, nearing 60, she's back with news she can't bear to tell anyone but Michael. From the haven of his tiny garden cottage, Mary Ann regroups and confronts some uncomfortable chapters in her past. As ever, Maupin's edgy wit energizes the layered story lines. His keen eye for irony and human foible is balanced by an innate compassion in this examination of the life of a woman of a certain age. &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.
+ 
+ &lt;/div&gt;
+ &lt;h3&gt;Review&lt;/h3&gt;
+ &lt;div&gt;
+ “Sure-to-please...Maupin’s edgy wit energizes the layered story lines. His keen eye for irony and human foible is balanced by an innate compassion in this examination of the life of a woman of a certain age.” (Publishers Weekly )&lt;br&gt;&lt;br&gt;“Even more satisfying than Michael Tolliver Lives, [Mary Ann in Autumn] is a juicy, twisty tale that’s of the moment (Facebook plays an essential role) as it takes us back to the heady days of our beloved San Francisco fantasyland.” (Modern Tonic )&lt;br&gt;&lt;br&gt;“This novel shows the beloved characters of Barbary Lane approaching middle age and beyond with grace and thoughtfulness. . . . The charm of the Tales has not waned. . . . A must for fans, but new readers will find it an accessible entry point.” (Library Journal )&lt;br&gt;&lt;br&gt;“The graying of the Tales of the City cast won’t sadden readers. This affectionate novel, with its carefully unfolding story line (and perfect ending), will work its warmth and charm.” (Booklist )&lt;br&gt;&lt;br&gt;“You don’t review a new installment of Armistead Maupin’s Tales of the City series—you rejoice in it...[These] are not fictional characters but dear friends and soul mates, as permanently a part of this town’s heart as cable cars, the Folsom Street Fair, and Maupin himself...” (San Francisco magazine )&lt;br&gt;&lt;br&gt;“Maupin’s chronicle of interconnected lives and tangled personal relations is as engaging and warmhearted as ever.” (Kirkus Reviews )
+ 
+ &lt;/div&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061470882</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="Tales of the City" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-04T02:53:57.117000+00:00" name="calibre:timestamp"/>
+        <meta content="Mary Ann in Autumn: A Tales of the City Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

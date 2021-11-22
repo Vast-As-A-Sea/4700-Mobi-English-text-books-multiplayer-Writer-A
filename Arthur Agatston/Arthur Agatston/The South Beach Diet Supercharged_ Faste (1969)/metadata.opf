@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1969</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cf51d3a-1522-42e9-876b-62df307e7bc4</dc:identifier>
+        <dc:title>The South Beach Diet Supercharged: Faster Weight Loss and Better Health for Life</dc:title>
+        <dc:creator opf:file-as="Agatston, Arthur" opf:role="aut">Arthur Agatston</dc:creator>
+        <dc:creator opf:file-as="Agatston, Arthur" opf:role="aut">Joseph Signorile</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-28T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Five years ago, with the publication of *The South Beach Diet*, renowned Miami cardiologist Dr. Arthur Agatston set out to change the way America eats. Now he has an even more ambitious goal: to change the way America lives by helping Americans become fitter as well as thinner and healthier . . . for life. 
+
+ 
+
+In the all-new *The South Beach Diet Supercharged,* Dr. Agatston shows you how to rev up your metabolism and* lose weight faster* while following the proven healthy eating principles of the original diet: choose good carbs, good fats, lean protein, and low-fat dairy. Collaborating with Dr. Joseph Signorile, a professor of exercise physiology at the University of Miami, Dr. Agatston presents a cutting-edge, three-phase workout that perfectly complements the three phases of the diet itself. Based on the latest exercise science, this ease-into-it fitness program combines low- and high-intensity interval exercise (with a focus on walking) and functional core body-toning exercises. The result: You'll look fitter and you'll burn more fat and calories all day—even at rest. 
+
+ 
+
+Also included is the latest nutritional research on how specific foods high in vitamins, minerals, fiber, and a host of phytonutrients help keep you healthy; new and expanded lists of Foods to Enjoy; taste-tempting Meal Plans for phases 1 and 2; and dozens of easy-to-prepare new recipes, including Eggs Frijoles, Chock-Full-of-Veggies Chili, Roasted Tomato Soup, Homestyle Turkey Meatloaf, and South Beach Diet Tiramisu. In every chapter you'll find inspiring success stories from real-life South Beach dieters and plenty of effective weight loss tips. And as an added bonus, Dr. Agatston answers the questions you've most often asked him about the diet since the original book was published.</dc:description>
+        <dc:publisher>Rodale</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594864575</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-13T22:53:01.920000+00:00" name="calibre:timestamp"/>
+        <meta content="South Beach Diet Supercharged: Faster Weight Loss and Better Health for Life, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

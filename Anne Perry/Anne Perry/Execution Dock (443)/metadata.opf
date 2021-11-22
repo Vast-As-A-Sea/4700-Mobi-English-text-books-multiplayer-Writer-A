@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89503f5a-4e79-4765-a67e-bdbffcffd66c</dc:identifier>
+        <dc:title>Execution Dock</dc:title>
+        <dc:creator opf:file-as="Perry, Anne" opf:role="aut">Anne Perry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-24T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Readers of Anne Perry’s bestselling William Monk novels feel as if they’ve experienced the many shades of Victorian London, from Belgravia to Limehouse, from drawing room to brothel. In **Execution Dock**, Perry’s first Monk novel in three years, we find ourselves on the bustling docks along the River Thames. Here the empire’s great merchant ships unload the treasures of the world. And here, in dank and sinister alleys, sex merchants ply their lucrative trade.The dreaded kingpin of this dark realm is Jericho Phillips. On his floating brothel, sex slaves are forced to endure unspeakable acts. Now one such soul, thirteen-year-old Fig, is found with his throat cut, his tortured body tossed into the river.Commander William Monk of the River Police swears that Phillips will hang for this abomination. But the miscreant is as wily as he is monstrous, and his wealthy clients seem far beyond the reach of the law. Monk’s attempt to bring about justice becomes the first electrifying episode in a nightmare that will test his courage and integrity.However, reinforcements are on the way. Monk’s wife, Hester, who runs a free clinic for abused women, draws a highly unusual guerrilla force to her husband’s cause–a canny ratcatcher, a retired brothel keeper, a fearless street urchin, and a rebellious society lady. To one as criminally minded as Phillips,  these folks are mere mosquitoes, to be sure. But as he will soon discover, some mosquitoes can have a deadly sting.This gripping, terrifying story hurtles toward to a denouement that will leave the reader breathless but cheering.** Execution Dock **is Anne Perry at her incomparable, magnificent best.</dc:description>
+        <dc:publisher>Ballantine Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345469335</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery:Historical</dc:subject>
+        <meta content="William Monk novels" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-06-15T09:00:32+00:00" name="calibre:timestamp"/>
+        <meta content="Execution Dock" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

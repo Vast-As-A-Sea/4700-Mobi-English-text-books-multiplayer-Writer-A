@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1220808f-58b1-4fc3-9040-09a8f476aee0</dc:identifier>
+        <dc:title>Alexandra, Gone</dc:title>
+        <dc:creator opf:file-as="McPartlin, Anna" opf:role="aut">Anna McPartlin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+LETTING GO FOR GOOD . . . 
+
+Once, Jane Moore and Alexandra Walsh were inseparable, sharing secrets and stolen candy, plotting their futures together. But when Jane became pregnant at seventeen, they drifted slowly apart. Jane has spent the years since raising her son, now seventeen himself, on her own, running a gallery, managing her sister’s art career, and looking after their volatile mother—all the while trying not to resent the limited choices life has given her. 
+
+Then a quirk of fate and a faulty elevator bring Jane into contact with Tom, Alexandra’s husband, who has some shocking news. Alexandra disappeared from a south Dublin suburb months ago, and Tom has been searching fruitlessly for her. Jane offers to help, as do the elevator’s other passengers—Jane’s brilliant but self-absorbed sister, Elle, and Leslie Sheehan, a reclusive web designer who’s ready to step back into the world again. And as Jane quickly realizes, Tom isn’t the only one among them who’s looking for something . . . or traveling toward unexpected revelations about love, life, and what it means to let go, in every sense. 
+
+In this insightful and irresistible novel, by turns profound, poignant, and laugh- out-loud funny, acclaimed Irish writer Anna McPartlin tells a story of friendship and love, of the families we are born into and the ones we create for ourselves, and of the hope and strength that remain when we fi nd the courage to leave the past behind at last.</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439123331</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-21T20:45:12.493000+00:00" name="calibre:timestamp"/>
+        <meta content="Alexandra, Gone" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;, &quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

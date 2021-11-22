@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2858</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d624a27a-80d1-4453-a180-2a42c4911431</dc:identifier>
+        <dc:title>Frost Moon</dc:title>
+        <dc:creator opf:file-as="Francis, Anthony" opf:role="aut">Anthony Francis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-26T04:00:00+00:00</dc:date>
+        <dc:description>In an alternate Atlanta where magic is practiced openly, where witches sip coffee at local cafes, shapeshifters party at urban clubs, vampires rule the southern night like gangsters, and mysterious creatures command dark caverns beneath the city, Dakota Frost's talents are coveted by all. 
+
+She's the best magical tattooist in the southeast, a Skindancer, able to bring her amazing tats to life. When a serial killer begins stalking Atlanta's tattooed elite, the police and the  Feds seek Dakota's help.  
+
+Can she find the killer on the dark fringe of the city's Edgeworld?  Among its powerful outcasts and tortured loners, what kind of  enemies and allies will she attract?  Will they see her as an invader, as a seducer, as an unexpected champion ... or as delicious prey?   
+
+FROST MOON is Book One of the SKINDANCER fantasy series by debut author Anthony Francis. Filled with unforgettable characters, spine-tingling action, kinky rebellion and edgy love, FROST MOON is classic storytelling at its best, and Dakota Frost is an irresistible new star of fantasy fiction.   
+
+Anthony Francis is a computer scientist who works at the 'Search Engine That Starts With A G'. By day he studies human and other minds to design intelligent machines and emotional robots; by night he writes fiction and draws comic books. He received his Ph.D. in Artificial Intelligence from Georgia Tech.  He lives in San Jose with his wife and cats but his heart will always belong in Atlanta.</dc:description>
+        <dc:publisher>Bell Bridge Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780984325689</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="The Skindancer Series" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-03-27T22:17:58.467000+00:00" name="calibre:timestamp"/>
+        <meta content="Frost Moon" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

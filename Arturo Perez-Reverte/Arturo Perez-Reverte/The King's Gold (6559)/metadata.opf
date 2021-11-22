@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6559</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0625b3b9-7662-49c2-96e8-281638d5b222</dc:identifier>
+        <dc:title>The King's Gold</dc:title>
+        <dc:creator opf:file-as="Pérez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-25T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**From the international bestselling author, the fourth adventure of Captain Alatriste **
+
+
+
+ With *The King's Gold*, bestselling author Arturo Pérez-Reverte continues to enthrall readers and critics with his heroic seventeenth-century mercenary, Captain Alatriste. The fourth adventure picks up in Seville in 1626. After serving with honor at the bloody siege of Breda, Alatriste and his protégé, Iñigo Balboa, accept a risky job involving a dozen swordsmen and mercenaries at their command, a dazzling amount of contraband gold, and a heavily guarded Spanish galleon returning from the West Indies. The job offer comes from the king himself, for at stake is nothing less than the Spanish Crown, and its dominion over the wealth of the Americas. But for Alatriste, a very personal surprise awaits him on that galleon.</dc:description>
+        <dc:publisher>Penguin Group USA, Inc</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780452295421</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="The Adventures of Captain Alatriste" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-27T04:17:23.836000+00:00" name="calibre:timestamp"/>
+        <meta content="King's Gold, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

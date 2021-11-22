@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">441</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9653b5e-2a72-49c1-bfae-ad20f59480dc</dc:identifier>
+        <dc:title>Cain His Brother</dc:title>
+        <dc:creator opf:file-as="Perry, Anne" opf:role="aut">Anne Perry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-03-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+"A TRIUMPH . . . A model of the richness and subtleties of relationships, characters, and story construction." --Chicago Sun-Times In his family life, Angus Stonefield had been gentle and loving; in business, a man of probity; and in his relationship with his twin brother, Caleb, a virtual saint. Now Angus is missing, and it appears more than possible that Caleb--a creature long since abandoned to depravity--has murdered him. Hired to find the missing man, William Monk puts himself into his shoes, searching for clues to Angus's fate and his vicious brother's whereabouts. Slowly, Monk inches toward the truth--and also, unwittingly, toward the destruction of his good name and livelihood. . . . "MASTERFUL . . . DARKLY CHILLING . . . Perry eloquently delivers to her readers the flavor of Victorian England. . . . Readers will be kept entertained and guessing--right up to the final pages." --Milwaukee Journal Sentinel "JUST WHEN YOU THINK YOU HAVE IT FIGURED OUT, THINK AGAIN! No one can capture and bring to life the drama, excitement, and feel of Victorian England like Perry." --Mostly Murder A Main Selection of the Mystery Guild</dc:description>
+        <dc:publisher>Thorndike Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780786206070</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery:Historical</dc:subject>
+        <meta content="William Monk novels" name="calibre:series"/>
+        <meta content="6" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2009-06-15T09:00:26+00:00" name="calibre:timestamp"/>
+        <meta content="Cain His Brother" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

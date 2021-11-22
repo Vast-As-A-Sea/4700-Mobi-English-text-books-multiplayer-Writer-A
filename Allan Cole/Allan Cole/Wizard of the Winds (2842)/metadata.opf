@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2842</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f4ab482-d6b1-404b-8723-e0fcfccf61e1</dc:identifier>
+        <dc:title>Wizard of the Winds</dc:title>
+        <dc:creator opf:file-as="Cole, Allan" opf:role="aut">Allan Cole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-18T01:43:21+00:00</dc:date>
+        <dc:description>SUMMARY:
+KING OF KINGS, LORD OVER MEN AND DEMONS ALIKE Only one ruler had ever held that title, and now Iraj Protarus, an orphaned prince exiled to a small village high in the Valley of the Clouds, dreamed of being the next great conqueror. The key to his destiny would be Safar Timura, a youth with an awesome gift for sorcery, whose visions foretold Iraj's rise to power. And in those visions, Safar stood at Iraj's side, his soul-blasting spells enabling his friend to attain his dreams.   But Safar had other visions with darker portents, and his spellbound knowledge raised secrets better left buried. The road the two men followed would be rich in titles and fortunes, but it would also be rich in death and disaster, in intrigue--and in unforgivable betrayal . . . Let the Wizard of the Winds sweep you away with a tale of such power and passion that you will forget every other fantasy you've ever read. Enter a world where humans and demons are deadly enemies, where the destiny of entire dynasties is buffeted mercilessly by the stormy winds of sorcery powerful beyond imagination. Like the masters who have come before him, Allan Cole has created a haunting and unique world peopled with characters you will hate to love and love to hate . . . a unique world whose siren song will be irresistible to fantasy lovers everywhere . . .</dc:description>
+        <dc:publisher>Ballantine Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345401762</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="The Timura Trilogy" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-23T04:54:51.016000+00:00" name="calibre:timestamp"/>
+        <meta content="Wizard of the Winds" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

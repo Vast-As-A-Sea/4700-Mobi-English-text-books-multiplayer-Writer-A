@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7476</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9535f5ca-6deb-4dee-8d6c-7bc4a47e23f6</dc:identifier>
+        <dc:title>Good Things I Wish You</dc:title>
+        <dc:creator opf:file-as="Ansay, A. Manette" opf:role="aut">A. Manette Ansay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+The acclaimed author of Vinegar Hill returns with a story of two unlikely romances—one historical, the other modern-day—separated by thousands of miles and well over a century.   Battling feelings of loss and apathy in the wake of a painful divorce, novelist Jeanette struggles to complete a book about the long-term relationship between Clara Schumann, a celebrated pianist and the wife of the composer Robert Schumann, and her husband's protÉgÉ, the handsome young composer Johannes Brahms. Although this legendary love triangle has been studied exhaustively, Jeanette—herself a gifted pianist—wonders about the enduring nature of Clara and Johannes's lifelong attachment. Were they just "best friends," as both steadfastly claimed? Or was the relationship complicated by desires that may or may not have been consummated?   Through a chance encounter, Jeanette meets Hart, a mysterious, worldly entrepreneur who is a native of Clara's birthplace, Leipzig, Germany. Hart's casual help with translations quickly blossoms into something more. There are things about men and women, he insists, that do not change. The two embark on a whirlwind emotional journey that leads Jeanette across Germany and Switzerland to a crossroads similar to that faced by Clara Schumann—also a mother, also an artist—more than a century earlier.   Accompanied by photographs, sketches, and notes from past and present, A. Manette Ansay's original blend of fiction and history captures the timeless nature of love and friendship between women and men.</dc:description>
+        <dc:publisher>PERENNIAL</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061239953</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-16T22:13:39.251000+00:00" name="calibre:timestamp"/>
+        <meta content="Good Things I Wish You" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

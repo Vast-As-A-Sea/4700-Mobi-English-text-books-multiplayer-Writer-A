@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7938</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e810342-0e90-4e20-8c59-068869f73e79</dc:identifier>
+        <dc:title>The witching hour</dc:title>
+        <dc:creator opf:file-as="Rice, Anne" opf:role="aut">Anne Rice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-03-22T05:37:45.818000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;In this engrossing and hypnotic tale of witchcraft and the occult spanning four centuries, we meet a great dynasty of witches--a family given to poetry and incest, to murder and philosophy, a family that over the ages is haunted by a powerful, dangerous and seductive being. &lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;"We watch and we are always here" is the motto of the Talamasca, a saintly group with extrasensory powers which has for centuries chronicled the lives of the Mayfairs--a dynasty of witches that brought down a shower of flames in 17th-century Scotland, fled to the plantations of Haiti and on to the New World, where they settled in the haunted city of New Orleans. Rice ( The Queen of the Damned ) plumbs a rich vein of witchcraft lore, conjuring in her overheated, florid prose the decayed antebellum mansion where incest rules, dolls are made of human bone and hair, and violent storms sweep the skies each time a witch dies and the power passes on. Newly annointed is Rowan Mayfair, a brilliant California neurosurgeon kept in ignorance of her heritage by her adoptive parents. She returns to the fold after bringing back Michael Curry from the dead; he, too, has unwanted extrasensory gifts and, like Rowan and the 12 Mayfairs before her, has beheld Lasher: devil, seducer, spirit. Now Lasher wants to come through to this world forever and Rowan is the Mayfair who can open the door. This massive tome repeatedly slows, then speeds when Rice casts off the Talamasca's pretentious, scholarly tones and goes for the jugular with morbid delights, sexually charged passages and wicked, wild tragedy. 300,000 first printing; BOMC main selection. &lt;br /&gt;Copyright 1990 Reed Business Information, Inc. &lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345384461</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <meta content="Lives of the Mayfair Witches" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-10T05:36:11.547000+00:00" name="calibre:timestamp"/>
+        <meta content="witching hour, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Horror&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

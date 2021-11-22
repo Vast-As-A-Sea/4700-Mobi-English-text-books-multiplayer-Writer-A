@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1949</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">045bc7e5-74a6-4e42-8144-580f17a37dd0</dc:identifier>
+        <dc:title>Empire in Black and Gold</dc:title>
+        <dc:creator opf:file-as="Tchaikovsky, Adrian" opf:role="aut">Adrian Tchaikovsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-01T04:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+First volume in a dramatic and colourful new fantasy series, 'Shadows of the Apt', about the fight for survival against a menacingly regimented empire Seventeen years ago Stenwold witnessed the Wasp Empire storming the city of Myna in a brutal war of conquest. Since then he has preached vainly against this threat in his home city of Collegium, but now the Empire is on the march, with its spies and its armies everywhere, and the Lowlands lie directly in its path. All the while, Stenwold has been training youthful agents to fight the Wasp advance, and the latest recruits include his niece, Che, and his mysterious ward, Tynisa. When his home is violently attacked, he is forced to send them ahead of him and, hotly pursued, they fly by airship to Helleron, the first city in line for the latest Wasp invasion. Stenwold and Che are Beetle-kinden, one of many human races that take their powers and inspiration each from a totem insect, but he also has allies of many breeds: Mantis, Spider, Ant, with their own particular skills. Foremost is the deadly Mantis-kinden warrior, Tisamon, but other very unlikely allies also join the cause. As things go from bad to worse amid escalating dangers, Stenwold learns that the Wasps intend to use the newly completed railroad between Helleron and Collegium to launch a lightning strike into the heart of the Lowlands. Then he gathers all of his agents to force a final showdown in the engine yard . . .</dc:description>
+        <dc:publisher>Tor</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780230704138</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Shadows of the Apt" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-13T12:08:00.088000+00:00" name="calibre:timestamp"/>
+        <meta content="Empire in Black and Gold" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

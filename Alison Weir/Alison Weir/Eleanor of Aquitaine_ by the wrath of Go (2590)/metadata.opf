@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2590</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0dfcf5c1-8392-4047-a5bb-a7f70574bc6c</dc:identifier>
+        <dc:title>Eleanor of Aquitaine: by the wrath of God, Queen of England</dc:title>
+        <dc:creator opf:file-as="Weir, Alison" opf:role="aut">Alison Weir</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-08-15T07:40:00.466000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Eleanor of Aquitaine was a remarkable woman. She was an important factor in the reign of four kings, lived to the ripe old age of 82, bore 10 children and outlived all but two of them. Her sons were kings of England and her daughters queens of Castile and Sicily, while her later descendants included a Holy Roman emperor and kings of France and Spain, as well as a couple of saints. In an age of men, she was indeed a powerful woman. Born in 1122 into the sophisticated and cultured court of Poitiers, Eleanor of Aquitaine came of age in a world of luxury, bloody combat, and unbridled ambition. At only fifteen, she inherited one of the great fortunes of Europe - the prize duchy of Aquitaine - yet was forced to submit to a union with the handsome but sexually withholding Louis VII, the teenage king of France. The marriage endured for fifteen fraught years, until Eleanor finally succeeded in having it annulled - only to enter an even stormier match with Henry of Anjou, who would soon ascend to the English throne as Henry II. With astonishing historic detail, mesmerizing pageantry, and irresistible accounts of royal scandal and intrigue, Weir re-creates not only a remarkable personality, but a magnificent past era. As Weir traces the fascinating intersection of public and private lives in Europe's twelfth-century courts, Eleanor comes to life as a complex, boldly original woman who transcended the mores of society. Later, after sixteen years of imprisonment for plotting to overthrow Henry, the humbled Queen emerged, at age sixty-seven, to rule England.</dc:description>
+        <dc:publisher>Pimlico</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780712673174</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-22T00:14:47.540308+00:00" name="calibre:timestamp"/>
+        <meta content="Eleanor of Aquitaine: by the wrath of God, Queen of England" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;, &quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

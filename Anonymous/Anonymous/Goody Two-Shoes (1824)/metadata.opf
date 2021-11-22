@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9796bcc-307f-4bee-aaa5-5bad45dfd234</dc:identifier>
+        <dc:title>Goody Two-Shoes</dc:title>
+        <dc:creator opf:file-as="Anonymous" opf:role="aut">Anonymous</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+[The History of Little Goody Two-Shoes is a children's story by an anonymous author, published in 1765. The story is the origin of the popular phrase "goody two-shoes," often used to describe an excessively or annoyingly virtuous person. In more recent years, the phrase has developed a more negative connotation, implying that the virtuousness of a "goody two-shoes" is insincere.[1]PlotGoody Two-Shoes is a variation of the Cinderella story. The fable tells of Goody Two-Shoes, the nickname of a poor orphan girl named Margery Meanwell, who goes through life with only one shoe. When she is given a complete pair by a rich gentleman, she is so happy, that she tells everyone that she has "two shoes." Later, Margery becomes a teacher, and marries a rich widower. This earning of wealth serves as proof that her virtuousness has been rewarded, a popular theme in children's literature of the era.]http://en.wikipedia.org/wiki/Goody_Two_ShoesPlease, Enjoy.</dc:description>
+        <dc:publisher>BiblioBazaar, LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780559055805</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>classics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-08T20:37:31.083000+00:00" name="calibre:timestamp"/>
+        <meta content="Goody Two-Shoes" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee70e12a-7b66-4859-9c67-f6adcb3064c3</dc:identifier>
+        <dc:title>The Grey Man</dc:title>
+        <dc:creator opf:file-as="McNab, Andy" opf:role="aut">Andy McNab</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-07-04T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;"A STUNNING ACTION THRILLER FROM A REAL-LIFE HERO. Kevin Dodds leads a dull, uneventful life. He has a steady job at the bank, a nice house and car. His wife goes to Bingo on a Saturday night, but he usually stays in to save money. But Kevin has spent enough quiet nights in watching TV and decides he'd like a night out himself. And he's not talking about a pint and a packet of peanuts down at the local. He's going to attempt to pull off a daring bank robbery single handed. Kevin is about to take a heart-thumping step into the unknown. &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Andy McNab joined the infantry as a boy soldier. In 1984 he was 'badged' as a member of 22 SAS Regiment and was involved in both covert and overt special operations worldwide. During the Gulf War he commanded Bravo Two Zero, a patrol that, in the words of his commanding officer, 'will remain in regimental history for ever'. Awarded both the Distinguished Conduct Medal (DCM) and Military Medal (MM) during his military career, McNab was the British Army's most highly decorated serving soldier when he finally left the SAS in February 1993. He wrote about his experiences in two phenomenal bestsellers, Bravo Two Zero, which was filmed in 1998 starring Sean Bean, and Immediate Action. He is the author of the bestselling novels, Remote Control, Crisis Four, Firewall, Last Light, Liberation Day and Dark Winter. Besides his writing work, he lectures to security and intelligence agencies in both the USA and UK. &lt;/p&gt;</dc:description>
+        <dc:publisher>Transworld</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780552154338</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-29T22:17:45.040000+00:00" name="calibre:timestamp"/>
+        <meta content="Grey Man, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

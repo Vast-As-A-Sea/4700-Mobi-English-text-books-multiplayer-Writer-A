@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a91c8162-bbb5-455f-a659-cc98d0d2a5af</dc:identifier>
+        <dc:title>The Publisher: Henry Luce and His American Century</dc:title>
+        <dc:creator opf:file-as="Brinkley, Alan" opf:role="aut">Alan Brinkley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-20T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Acclaimed historian Alan Brinkley gives us a sharply realized portrait of Henry Luce, arguably the most important publisher of the twentieth century.As the founder of *Time*, *Fortune, *and *Life *magazines, Luce changed the way we consume news and the way we understand our world. Born the son of missionaries, Henry Luce spent his childhood in rural China, yet he glimpsed a milieu of power altogether different at Hotchkiss and later at Yale. While working at a Baltimore newspaper, he and Brit Hadden conceived the idea of *Time*: a “news-magazine” that would condense the week’s events in a format accessible to increasingly busy members of the middle class. They launched it in 1923, and young Luce quickly became a publishing titan. In 1936, after *Time*’s unexpected success—and Hadden’s early death—Luce published the first issue of *Life,* to which millions soon subscribed.Brinkley shows how Luce reinvented the magazine industry in just a decade. The appeal of *Life* seemingly cut across the lines of race, class, and gender. Luce himself wielded influence hitherto unknown among journalists. By the early 1940s, he had come to see his magazines as vehicles to advocate for America’s involvement in the escalating international crisis, in the process popularizing the phrase “World War II.” In spite of Luce’s great success, happiness eluded him. His second marriage—to the glamorous playwright, politician, and diplomat Clare Boothe—was a shambles. Luce spent his later years in isolation, consumed at times with conspiracy theories and peculiar vendettas. *The Publisher* tells a great American story of spectacular achievement—yet it never loses sight of the public and private costs at which that achievement came.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780679414445</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-07T12:01:12.693000+00:00" name="calibre:timestamp"/>
+        <meta content="Publisher: Henry Luce and His American Century, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

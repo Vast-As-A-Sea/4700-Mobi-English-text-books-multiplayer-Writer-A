@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7569</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">668f3444-e6d0-4e60-87cb-65570c68aac9</dc:identifier>
+        <dc:title>Mastering the Grill: The Owner's Manual for Outdoor Cooking</dc:title>
+        <dc:creator opf:file-as="Schloss, Andrew &amp; Joachim, David &amp; Miksch, Alison" opf:role="aut">Andrew Schloss</dc:creator>
+        <dc:creator opf:file-as="Schloss, Andrew &amp; Joachim, David &amp; Miksch, Alison" opf:role="aut">David Joachim</dc:creator>
+        <dc:creator opf:file-as="Schloss, Andrew &amp; Joachim, David &amp; Miksch, Alison" opf:role="aut">Alison Miksch</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-02-15T06:17:07.214000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Grilling is a science, and it's only when you understand the science of grilling that you can transform it into an art. That's what makes &lt;em&gt;Mastering the Grill&lt;/em&gt; a standout on the cookbook shelf. From equipment (grill types and tools) to fire (wood, charcoal, or gas) to ingredients (meat, poultry, fish, and vegetables), the authors have shared their impressive grilling know-how to explain the whys and the hows and guarantee the wows clearly and comprehensively. In addition to hundreds of tips and techniques, this ultimate guide is packed with how-to illustrations and mouthwatering photographs plus 350 surefire recipes everything from rubs and marinades to appetizers, entrees, side dishes, and desserts. &lt;em&gt;Mastering the Grill&lt;/em&gt; is a master class in cooking, destined to become a sauce-stained, well-thumbed classic. &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;Andrew Schloss is a well-known teacher, food writer, cookbook author, and food industry consultant. He lives in Pennsylvania.  &lt;/p&gt;&lt;p&gt;David Joachim has authored, edited, or collaborated on more than 25 cookbooks. He lives in Pennsylvania. &lt;/p&gt;</dc:description>
+        <dc:publisher>Chronicle Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780811849647</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-28T06:16:14.034000+00:00" name="calibre:timestamp"/>
+        <meta content="Mastering the Grill: The Owner's Manual for Outdoor Cooking" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

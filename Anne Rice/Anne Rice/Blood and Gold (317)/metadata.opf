@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">317</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f473691-9bed-4f05-b804-f52d421b80f5</dc:identifier>
+        <dc:title>Blood and Gold</dc:title>
+        <dc:creator opf:file-as="Rice, Anne" opf:role="aut">Anne Rice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-07-15T17:40:29.447000+00:00</dc:date>
+        <dc:description>SUMMARY:
+In the best Anne Rice tradition, the great Vampire Marius returns to tell us the mesmerizing story of his life through the ages, from the time of Caesar Augustus to the present. The Vampire Marius, child of the Millenea, has lived two thousand years. He tells his story to Thorne, a lone vampire who was a Viking in a mortal life tells of his birth into the Senatorial Class at the time of Caesar Augustus, and how he was transformed into a "dark god" by Druids in the forests of Gaul; how he created the Vampire Armand and became guardian of Akasha and Enkil, the Queen and the King of Vampires, who hold within themselves the secret core of the life of the undead "destroy them and you destroy all vampires." He relates how he became the voice of reason among the vampires, and how he created Pandora, the vampire he still grieves for... We see Marius as a mortal boy in the teeming streets of second-century Rome, and in young manhood in the time of Constantine and his battle to save Rome from the Visigoths. We follow him through the Dark Ages and the Black Death, and through another thousand years to Venice and to Florence, where he seeks out the great Botticelli and becomes a painter, working in a glorious palazzo a blood drinker in the thick of a rich and brilliant mortal life. Worlds within worlds unfold historic, fantastic, cultural, vampiric, from the London of Henry VIII to 17th-century Paris and Weimar as the novel moves to its splendid finale in an Aegean kingdom ruled by the great vampire: the magician Marius.</dc:description>
+        <dc:publisher>Knopf Canada</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780676974386</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Vampires</dc:subject>
+        <meta content="Vampire Chronicles" name="calibre:series"/>
+        <meta content="8" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-04T04:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Blood and Gold" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Vampires&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

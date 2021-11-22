@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7460</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30953770-0837-4c8a-8ddb-162898e45d7b</dc:identifier>
+        <dc:title>In the Still of the Night: The Strange Death of Ronda Reynolds and Her Mother's Unceasing Quest for the Truth</dc:title>
+        <dc:creator opf:file-as="Rule, Ann" opf:role="aut">Ann Rule</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-12T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**FROM TRUE-CRIME LEGEND ANN RULE comes this riveting story of a young woman whose life ended too soon—and a determined mother’s eleven-year crusade to clear her daughter’s name. 
+
+**It was nine days before Christmas 1998, and thirty-two-year-old Ronda Reynolds was getting ready to travel from Seattle to Spokane to visit her mother and brother and grandmother before the holidays. Ronda’s second marriage was dissolving after less than a year, her career as a pioneering female Washington State Trooper had ended, but she was optimistic about starting over again. "I’m actually looking forward to getting on with my life," she told her mother earlier the night before. "I just need a few days with you guys." Barb Thompson, Ronda’s mother, who had met her daughter’s second husband only once before, was just happy that Ronda was coming home. 
+
+At 6:20 that morning, Ron Reynolds called 911 and told the dispatcher his wife was dead. She had committed suicide, he said, although he hadn’t heard the gunshot and he didn’t know if she had a pulse. EMTs arrived, detectives arrived, the coroner’s deputy arrived, and a postmortem was conducted. Lewis County Coroner Terry Wilson, who neither visited the death scene nor attended the autopsy, declared the manner of Ronda’s death as "undetermined." Over the next eleven years, Coroner Wilson would change that manner of death from "undetermined" to "suicide," back to "undetermined"—and then back to "suicide" again. 
+
+But Barb Thompson never for one moment believed her daughter committed suicide. Neither did Detective Jerry Berry or ballistics expert Marty Hayes or attorney Royce Ferguson or dozens of Ronda’s friends. For eleven grueling years, through the ups and downs of the legal system and its endless delays, these people and others helped Barb Thompson fight to strike that painful word from her daughter’s death certificate. 
+
+On November 9, 2009, a precedent-setting hearing was held to determine whether Coroner Wilson’s office had been derelict in its duty in investigating the death of Ronda Reynolds. Veteran true-crime writer Ann Rule was present at that hearing, hoping to unbraid the tangled strands of conflicting statements and mishandled evidence and present all sides of this haunting case and to determine, perhaps, what happened to Ronda Reynolds, in the chill still of that tragic December night.</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416544609</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>True Crime</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-15T19:25:22.017000+00:00" name="calibre:timestamp"/>
+        <meta content="In the Still of the Night: The Strange Death of Ronda Reynolds and Her Mother's Unceasing Quest for the Truth" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;True Crime&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

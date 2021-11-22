@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2812</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bf0ecb7-dd17-4232-9630-bea3508af05b</dc:identifier>
+        <dc:title>Darkness Revealed</dc:title>
+        <dc:creator opf:file-as="Ivy, Alexandra" opf:role="aut">Alexandra Ivy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-11T17:38:16+00:00</dc:date>
+        <dc:description>SUMMARY:
+THE ONE MAN SHE CAN'T TRUST Two hundred years have passed since Anna Randal gave herself to Conde Cesar in a night of relentless passion. Since then, Anna has become filled with unearthly power she can't begin to comprehend. And the sexy, charming vampire responsible has eluded all of her efforts to track him down, until now . . .IS THE ONLY ONE Cesar's blissful encounter with Anna cost him two centuries of penance. But one thing hasn't changed-his body's response to her is as urgent as ever. Now, commanded by the Oracles to keep watch over Anna, Cesar finds himself torn between his need to protect her-and to possess her . . . WHO CAN KEEP HER SAFE Someone wants Anna dead. And as an ancient enemy prepares to wage a terrifying battle, Anna must decide whether to succumb to a dark, burning desire and accept a destiny that could change the world forever . . . Praise for Alexandra Ivy's Embrace The Darkness . . . 'Ivy creates such vivid and complex characters, their emotional struggles feel real even though their exploits are supernatural. A true gift to the genre!'- Romantic Times 'Delivers plenty of atmosphere and hot-blooded seduction.'- Publishers Weekly</dc:description>
+        <dc:publisher>Kensington Publishing Corp.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781420102963</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Paranormal</dc:subject>
+        <meta content="Guardians of Eternity" name="calibre:series"/>
+        <meta content="4" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-23T04:31:18.782000+00:00" name="calibre:timestamp"/>
+        <meta content="Darkness Revealed" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Paranormal&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

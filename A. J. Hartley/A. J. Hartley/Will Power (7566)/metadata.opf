@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7566</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">782d92e0-dac8-479a-b51b-de18104ccba9</dc:identifier>
+        <dc:title>Will Power</dc:title>
+        <dc:creator opf:file-as="Hartley, A. J." opf:role="aut">A. J. Hartley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-14T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+ 
+ &lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+ &lt;div&gt;
+ Fans of 2009's &lt;i&gt;Act of Will&lt;/i&gt;, Hartley's first tale featuring roguish almost-hero Will Hawthorne, may be disappointed that the adventurers split up early on and two don't reappear until late in the story. Fortunately, all of the fast pacing, outrageous dilemmas, and sharp, cynical humor are back in full force. Will and his intermittently traitorous friends are about to be captured by soldiers of the Diamond Empire when a mysterious ambassador smuggles them out of the city and possibly the world. They're almost immediately enmeshed in a war between goblins and the eerily humanlike Fair Folk, where nothing is certain except Will's ability to make a bad situation worse. Fans will dive in with the gusto of Will quaffing a tankard of beer, and new readers should have no problem keeping up. &lt;i&gt;(Feb.)&lt;/i&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.
+ 
+ &lt;/div&gt;
+ &lt;h3&gt;Product Description&lt;/h3&gt;
+ &lt;div&gt;
+ &lt;div&gt;&lt;div&gt;&lt;div&gt;While on the run from Empire guards, Will Hawthorne and his band of thieves are transported to a mysterious land that none of them recognize or know how to get home from. Turns out that they've landed right in the middle of a battle between goblins and humans. Their human allies are practically storybook counterparts to the rough sorts they knew in Stavis, speaking in high-flown prose, dressed to the height of fashion, and dripping with wealth and social propriety. Will's companions are quite taken by these fine folks, but the Fair Folk are appalled by Will's unorthodoxy.&lt;br&gt;&lt;br&gt;At first Will does whatever he can to try to squirm into their good graces, but just when his efforts are feeling totally futile, he begins to wonder if these too-perfect courtiers and warriors have anything to offer beyond their glamour and their burning hatred of the goblins. But is there any recourse for Will and his friends once it turns out that the humans who are sheltering them may not be on the right side of their eternal conflict?&lt;br&gt;&lt;br&gt;Will Power is a funny and fleet-footed stand-alone fantasy featuring the characters readers grew to love in &lt;i&gt;Act of Will &lt;/i&gt;in an all-new adventure about the danger of first impressions.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+ 
+ &lt;/div&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Tom Doherty Associates</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780765321251</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="Will Hawthorne" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-04T02:54:22.483000+00:00" name="calibre:timestamp"/>
+        <meta content="Will Power" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

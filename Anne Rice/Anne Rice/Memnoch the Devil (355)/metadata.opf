@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">355</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f88ec39-a7a6-4614-803c-ea554cc8d455</dc:identifier>
+        <dc:title>Memnoch the Devil</dc:title>
+        <dc:creator opf:file-as="Rice, Anne" opf:role="aut">Anne Rice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-07-03T17:39:49.864000+00:00</dc:date>
+        <dc:description>SUMMARY:
+In Anne Rice's extraordinary novel, the Vampire Lestat--outsides, canny monster, hero-wanderer--is at last offered the chance to be redeemed.He is brought into direct confrontation with both God and the Devil, and into the land of Death.We are in New York.  The city is blanketed in snow.  Through the whiteness Lestat is searching for Dora, the beautiful and charismatic daughter of a drug lord, the woman who arouses Lestat's tenderness as no mortal ever has.While torn between his vampire passions and his overwhelming love for Dora, Lestat is  confronted by the most dangerous of adversaries he has yet known.He is snatched from the world itself by the mysterious Memnoch, who claims to be the Devil. He is invited to be a witness at the Creation.  He is taken like the ancient prophets into the heavenly realm and is ushered into Purgatory.He must decide if he can believe in the Devil or in God.  And finally, he must decide which, if either, he will serve.In the first four Vampire Chronicles, Anne Rice summoned up for us worlds that are fantastic and distant, making them as resonant, real, and immediate as our own.  In this, her most daring and darkest novel, she takes us, with Lestat, into the mythical world that is most important to us--into the realms of our own theology.</dc:description>
+        <dc:publisher>Knopf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780679441014</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Vampires</dc:subject>
+        <meta content="Vampire Chronicles" name="calibre:series"/>
+        <meta content="5" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-04T04:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Memnoch the Devil" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Vampires&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

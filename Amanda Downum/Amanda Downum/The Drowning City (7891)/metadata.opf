@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7891</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77ed47c2-b34b-4c07-ab93-efbcd4edce15</dc:identifier>
+        <dc:title>The Drowning City</dc:title>
+        <dc:creator opf:file-as="Downum, Amanda" opf:role="aut">Amanda Downum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-25T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Downum effectively combines action, magic, police procedure and political intrigue in this complex and striking debut. Isyllt Iskaldur, a Selafaïan forensic necromancer, travels to the monsoon-soaked canal city of Symir, capital of Sivahra. Her plot to undermine the occupying Assari Empire before it can invade Selafai is complicated by her attraction to handsome Imperial fire-mage Asheris. Isyllt's bodyguard Xinai, a Sivahran native, despises the empire for its brutal destruction of her clan; young apprentice mage Zhirin Laii struggles between love for a guerrilla leader and loyalty to her mother, a respected politician. Refreshingly, Downum treats necromancy as an unclean but necessary defense against evil and nicely handles the complex nuances of a quasi-Westerner fomenting revolution in a quasi-Asian country occupied by quasi-Arabs. A strong (if not happy) conclusion still leaves plenty of room for sequels. &lt;em&gt;(Sept.)&lt;/em&gt; &lt;br /&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Symir -- the Drowning City. home to exiles and expatriates, pirates and smugglers. And violent revolutionaries who will stop at nothing to overthrow the corrupt Imperial government.  &lt;/p&gt;&lt;p&gt;For Isyllt Iskaldur, necromancer and spy, the brewing revolution is a chance to prove herself to her crown. All she has to do is find and finance the revolutionaries, and help topple the palaces of Symir. But she is torn between her new friends and her duties, and the longer she stays in this monsoon-drenched city, the more intrigue she uncovers -- even the dead are plotting.   &lt;/p&gt;&lt;p&gt;As the waters rise and the dams crack, Isyllt must choose between her mission and the city she came to save. &lt;/p&gt;</dc:description>
+        <dc:publisher>Hachette Digital, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316069045</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="The Necromancer Chronicles" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-07T02:19:04.642000+00:00" name="calibre:timestamp"/>
+        <meta content="Drowning City, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

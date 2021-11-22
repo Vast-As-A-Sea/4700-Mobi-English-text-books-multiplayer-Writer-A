@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0380ea0-95fa-4ed8-a351-9f4acd0578ad</dc:identifier>
+        <dc:title>Merrick</dc:title>
+        <dc:creator opf:file-as="Rice, Anne" opf:role="aut">Anne Rice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-10-17T17:41:46.908000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+At the center is the beautiful, unconquerable witch,  Merrick. She is a descendant of the gens de colors libres, a cast  derived from the black mistresses of white men, a society of New  Orleans octaroons and quadroons, steeped in the lore and ceremony of  voodoo, who reign in the shadowy world where the African and the  French--the white and the dark--intermingle. Her ancestors are the  Great Mayfair Witches, of whom she knows nothing--and from whom she  inherits the power and magical knowledge of a Circe.Into this  exotic New Orleans realm comes David Talbot, hero, storyteller,  adventurer, almost mortal vampire, visitor from another dark realm. It  is he who recounts Merrick's haunting tale--a tale that takes us from  the New Orleans of the past and present to the jungles of Guatemala,  from the Mayan ruins of a century ago to ancient civilizations not yet  explored.Anne Rice's richly told novel weaves an irresistible  story of two worlds: the witches' world and the vampires' world, where  magical powers and otherworldly fascinations are locked together in a  dance of seduction, death, and rebirth.</dc:description>
+        <dc:publisher>Random House Large Print</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780375430770</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Vampires</dc:subject>
+        <meta content="Vampire Chronicles" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-04T04:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Merrick" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Vampires&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">857</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">70dca613-6841-4d28-b322-321514ba19fc</dc:identifier>
+        <dc:title>The Federalist papers</dc:title>
+        <dc:creator opf:file-as="Hamilton, Alexander &amp; Madison, James &amp; Jay, John &amp; Goldman, Lawrence" opf:role="aut">Alexander Hamilton</dc:creator>
+        <dc:creator opf:file-as="Hamilton, Alexander &amp; Madison, James &amp; Jay, John &amp; Goldman, Lawrence" opf:role="aut">James Madison</dc:creator>
+        <dc:creator opf:file-as="Hamilton, Alexander &amp; Madison, James &amp; Jay, John &amp; Goldman, Lawrence" opf:role="aut">John Jay</dc:creator>
+        <dc:creator opf:file-as="Hamilton, Alexander &amp; Madison, James &amp; Jay, John &amp; Goldman, Lawrence" opf:role="aut">Lawrence Goldman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-15T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+The Federalist Papers--85 essays published in the winter of 1787-8 in the New York press--are some of the most crucial and defining documents in American political history, laying out the principles that still guide our democracy today. The three authors--Alexander Hamilton, James Madison, and John Jay--were respectively the first Secretary of the Treasury, the fourth President, and the first Chief Justice of the Supreme Court in American history. Each had played a crucial role in the events of the American Revolution, and their essays make a compelling case for a new and united nation, governed under a written Constitution that endures to this day. The Federalist Papers are an indispensable guide to the intentions of the founding fathers and a canonical text in the development of western political thought. This is the first edition to explain the many classical, mythological, and historical references in the text, and to pay full attention to the erudition of the three authors, which enabled them to place the infant American republic in a long tradition of self-governing states.Lawrence Goldman is Fellow and Tutor in Modern History, St Peter's College, Oxford. He is the editor of the Oxford Dictionary of National Biography and has published widely on nineteenth- and twentieth-century British History, including Britain's social and political relations with the United States.</dc:description>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780192805928</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>classics</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-10T07:01:48.196000+00:00" name="calibre:timestamp"/>
+        <meta content="Federalist papers, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;, &quot;classics&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

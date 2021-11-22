@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2641</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">674cd032-cb54-4306-b4aa-a08828f51dc5</dc:identifier>
+        <dc:title>The Ramen King and I: How the Inventor of Instant Noodles Fixed My Love Life</dc:title>
+        <dc:creator opf:file-as="Raskin, Andy" opf:role="aut">Andy Raskin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-12T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+For three days in January 2007, the most-emailed article in The New York Times was "Appreciations: Mr. Noodle," an editorial noting the passing, at age 96, of billionaire Momofuku Ando, the inventor of instant ramen. The very existence of the noodle inventor came as a shock to many, but not to Andy Raskin, who had spent nearly three years trying to meet Ando. Why?
+
+
+ To fix the problems that plagued his love life. 
+
+ *The Ramen King and I* is Raskin's memoir about how despair-and a series of bizarre adventures at Japanese restaurants-led him to confront the truth of his romantic past, and how Ando became his unlikely spiritual guide. Through letters ostensibly penned to the culinary sage, Raskin reveals a relationship history plagued by infidelity, jealousy, and betrayal. After devouring Ando's essays (with titles such as "Peace Follows from a Full Stomach" and "Mankind is Noodlekind"), he sets out to meet the food pioneer-and to discover the secret to a committed relationship.</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781592404445</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-28T10:18:09.466000+00:00" name="calibre:timestamp"/>
+        <meta content="Ramen King and I: How the Inventor of Instant Noodles Fixed My Love Life, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Contemporary&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

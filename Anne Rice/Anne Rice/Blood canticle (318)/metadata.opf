@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c16bbcbf-4134-4928-9974-8153f0ba76c8</dc:identifier>
+        <dc:title>Blood canticle</dc:title>
+        <dc:creator opf:file-as="Rice, Anne" opf:role="aut">Anne Rice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-10-28T17:41:12.819000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Anne Rice continues her astonishing Vampire Chronicles in a new novel that begins whereBlackwood Farmleft off and tells the story of Lestat's quest for redemption, goodness, and the love of Rowan Mayfair. Welcome back to Blackwood Farm. Here are all of the brilliantly conceived characters that make up the two worlds of vampires and witches: Mona Mayfair, who's come to the farm to die and is brought into the realm of the undead; her uncle, Julian Mayfair, guardian of the family, determined to forever torment Lestat for what he has done to Mona; Rowan Mayfair, brilliant neurosurgeon and witch, who finds herself dangerously drawn to the all-powerful Lestat; her husband, Michael Curry, hero of the Mayfair Chronicles, who seeks Lestat's help with the temporary madness of his wife; Ash Templeton, a 5,000-year-old Taltos who has taken Mona's child; and Patsy, the country-western singer, who returns to avenge her death at the hands of her son, Quinn Blackwood. Delightfully, at the book's centre is the Vampire Lestat, once the epitome of evil, now pursuing the transformation set in motion withMemnoch the Devil. He struggles with his vampirism and yearns for goodness, purity and love, as he saves Patsy's ghost from the dark realm of the Earthbound, uncovers the mystery of the Taltos and unselfishly decides the fate of his beloved Rowan Mayfair. A story of love and loyalty, of the search for passion and promise,Blood Canticleis Anne Rice at her finest.</dc:description>
+        <dc:publisher>Knopf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780676975970</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy:Vampires</dc:subject>
+        <meta content="Vampire Chronicles" name="calibre:series"/>
+        <meta content="10" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-06-04T04:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Blood canticle" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy:Vampires&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

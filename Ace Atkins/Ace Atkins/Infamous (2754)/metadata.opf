@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2754</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83efa669-7480-4825-aa9a-a71d0d3be5b6</dc:identifier>
+        <dc:title>Infamous</dc:title>
+        <dc:creator opf:file-as="Atkins, Ace" opf:role="aut">Ace Atkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-15T04:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+** From "one of the best crime writers at work today" (Michael Connelly) comes a fast,f unny, violent new noir crime classic-a Coen Brothers movie come to life. **
+
+
+
+ He has been compared to Lehane, Ellroy, and Pelecanos, but Ace Atkins's rich, raucous, passionate blend of historical novel and crime story is all his own and never more so than in *Infamous*. 
+
+
+
+ In July 1933, the gangster known as George "Machine Gun" Kelly staged the kidnapping-for-ransom of an Oklahoma oil­man. He would live to regret it. Kelly was never the sharpest knife in the drawer, and what started clean soon became messy, as two of his partners cut themselves into the action; a determined former Texas Ranger makes tracking Kelly his mission; and Kelly's wife, ever alert to her own self-interest, starts playing both ends against the middle. 
+
+
+
+ The result is a mesmerizing tale set in the first days of the modern FBI, featuring one of the best femmes fatales in history-the Lady Macbeth of Depression-era crime-a great unexpected hero, and some of the most colorful supporting characters in recent crime fiction.
+EDITORIAL REVIEW:
+
+** From "one of the best crime writers at work today" (Michael Connelly) comes a fast,f unny, violent new noir crime classic-a Coen Brothers movie come to life. **
+
+
+
+ He has been compared to Lehane, Ellroy, and Pelecanos, but Ace Atkins's rich, raucous, passionate blend of historical novel and crime story is all his own and never more so than in *Infamous*. 
+
+
+
+ In July 1933, the gangster known as George "Machine Gun" Kelly staged the kidnapping-for-ransom of an Oklahoma oil­man. He would live to regret it. Kelly was never the sharpest knife in the drawer, and what started clean soon became messy, as two of his partners cut themselves into the action; a determined former Texas Ranger makes tracking Kelly his mission; and Kelly's wife, ever alert to her own self-interest, starts playing both ends against the middle. 
+
+
+
+ The result is a mesmerizing tale set in the first days of the modern FBI, featuring one of the best femmes fatales in history-the Lady Macbeth of Depression-era crime-a great unexpected hero, and some of the most colorful supporting characters in recent crime fiction.</dc:description>
+        <dc:publisher>Putnam Adult</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780399156304</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-04-16T16:07:22.546000+00:00" name="calibre:timestamp"/>
+        <meta content="Infamous" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

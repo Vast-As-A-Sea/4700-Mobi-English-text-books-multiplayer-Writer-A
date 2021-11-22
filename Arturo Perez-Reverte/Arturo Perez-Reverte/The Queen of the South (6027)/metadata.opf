@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6027</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d269f575-4f70-43f9-9950-cf3c0888d5d7</dc:identifier>
+        <dc:title>The Queen of the South</dc:title>
+        <dc:creator opf:file-as="Perez-Reverte, Arturo" opf:role="aut">Arturo Pérez-Reverte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-15T07:08:14.895000+00:00</dc:date>
+        <dc:description>SUMMARY:
+The critically acclaimed, beloved, and bestselling author of The Club Dumas and The Nautical Chart delivers his most magniÞcent novel to date. Few authors inspire the kind of passion that Arturo Pérez-Reverte does. Reviewers, readers, and booksellers alike have embraced his fiction as the perfect blend of suspense and literary ambition. A global bestseller, he is one of the most admired and widely read authors in the world. And his stunning new novel is his best yet. A remarkable tale, The Queen of the South spans continents, from the dusty streets of Mexico to the sparkling waters off the coast of Morocco, to Spain and the Strait of Gibraltar. A sweeping story set to the irresistible beat of the drug smugglers' ballads, it encompasses sensuality and cruelty, love and betrayal, as its heroine's story unfolds. Teresa Mendoza's boyfriend is a drug smuggler who the narcos of Sinaloa, Mexico, call "the king of the short runway," because he can get a plane full of coke off the ground in three hundred yards. But in a ruthless business, life can be short, and Teresa even has a special cell phone that Guero gave her along with a dark warning. If that phone rings, it means he's dead, and she'd better run, because they're coming for her next. Then the call comes. In order to survive, she will have to say goodbye to the old Teresa, an innocent girl who once entrusted her life to a pinche narco smuggler. She will have to find inside herself a woman who is tough enough to inhabit a world as ugly and dangerous as that of the narcos-a woman she never before knew existed. Indeed, the woman who emerges will surprise even those who know her legend, that of the Queen of the South.</dc:description>
+        <dc:publisher>Picador</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780330433655</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-17T23:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Queen of the South, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 6, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
